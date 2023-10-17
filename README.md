@@ -1,5 +1,10 @@
 <h1 align="center">Hi there! Salut! 👋 I'm Siqi (Nora)</h1>
 <h4 align="center">A jack-of-all-trades (master-of-some) fullstack software developer with expertise in Python, JavaScript and database management, as well as DevOps experiences in CI/CD.</h4>
+
+🔭 I’m currently working on **enabling ground-breaking science by building reliable software products.**
+
+⚡ Fun fact about me: my first job was being a lab assistant, taking care of [guppies](https://en.wikipedia.org/wiki/Guppy); I now have my own aquarium, home to some happy guppies and red cherry shrimp 🫧
+
 <h3 align="left">💬 Connect with me</h3>
 
 [![Nora's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siqi-liu)
